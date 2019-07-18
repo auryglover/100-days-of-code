@@ -13,7 +13,7 @@
 
 **Today's Progress**: I've completed the Introduction to basic CSS exercises on freeCodeCamp
 
-**Thoughts** I am more committed and determined than before. Learning the basics for HTML and CSS have been a breeze due to prior educational experience with C++ and Java. Cannot wait to feel confident enough to make my first project as I already have a few ideas.
+**Thoughts** I am more committed and determined than before. Learning the basics to HTML and CSS has been a breeze due to prior educational experience with C++ and Java. Cannot wait to feel confident enough to make my first project as I already have a few ideas.
 
 **Link(s) to work**
 1. [Introduction to basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css)
